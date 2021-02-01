@@ -11,5 +11,7 @@
 - 🤔 I’m looking for help with Object Oriented Programming concept
 - 💬 Feel free to contact me for any assistance needed within my field of interest.
 - 📫 To reach me, email me at: aforprog@gmail.com
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
