@@ -5,7 +5,7 @@
 **anandhu-eng/anandhu-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on creating a To-Do-List with comlpete features using python and tkinter
+- 🔭 I’m currently working on creating a offline scientific calculator using python and tkinter.
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open-source projects and new ideas that would benefit the society in a good way
 - 🤔 I’m looking for help with Object Oriented Programming concept
