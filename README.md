@@ -16,4 +16,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ANANDHU S_private=true&show_icons=true&theme=chartreuse-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ANANDHU S&count_private=true&show_icons=true&theme=chartreuse-dark)
