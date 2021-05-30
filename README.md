@@ -19,5 +19,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anandhu-eng&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
