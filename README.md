@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on creating a Web Todo App
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on open-source projects and new ideas that would benefit the society in a good way
 - 🤔 I’m looking for help with Object Oriented Programming concept
 - 💬 Feel free to contact me for any assistance needed within my field of interest.
