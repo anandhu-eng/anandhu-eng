@@ -5,12 +5,12 @@
 **anandhu-eng/anandhu-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on creating a WebScrapper.
-- 🌱 I’m currently learning C++ and Fast API.
+- 🔭 I’m currently working on improving the text classification model.
+- 🌱 I’m currently learning ML.
 - 👯 I’m looking to collaborate on open-source projects and new ideas that would benefit the society in a good way
 - 🤔 I’m looking for help with Object Oriented Programming concept
 - 💬 Feel free to contact me for any assistance needed within my field of interest.
-- 📫 To reach me, email me at: aforprog@gmail.com
+- 📫 To reach me, email me at: 20cso11@sctce.ac.in
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
