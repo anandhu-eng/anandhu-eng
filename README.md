@@ -5,7 +5,7 @@
 **anandhu-eng/anandhu-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 Contributing to development of Collective Mind@cm4mlops.
+- 🔭 Contributing to development of MLCFlow and MLCFlow scripts.
 - 🌱 Learning about Large Language Models in free time.
 - 📫 Feel free to reach me at: anandhusooraj011@gmail.com
 
