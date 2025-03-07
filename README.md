@@ -11,6 +11,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anandhu-eng&count_private=true&show_icons=true&theme=chartreuse-dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=anandhu-eng&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu-eng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anandhu-s-2337661b7/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/anandhu-eng)
