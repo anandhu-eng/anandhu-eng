@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           # --- Required tokens ---
           token: ${{ secrets.METRICS_TOKEN }}          # Classic PAT (repo, read:user) for full data
