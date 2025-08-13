@@ -59,13 +59,6 @@ jobs:
           plugin_stargazers: yes
           plugin_lines: yes
 
-          # --- Optional: WakaTime (enable after adding your API key) ---
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, projects
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-
           # --- Commit behavior ---
           commit_message: "chore(metrics): update github-metrics.svg"
           dryrun: no
