@@ -1,0 +1,71 @@
+name: GitHub Profile Metrics
+
+on:
+  schedule:
+    # Runs daily at 08:50 IST (03:20 UTC)
+    - cron: "20 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # --- Required tokens ---
+          token: ${{ secrets.METRICS_TOKEN }}          # Classic PAT (repo, read:user) for full data
+          committer_token: ${{ secrets.GITHUB_TOKEN }} # Auto-commit the SVG
+
+          # --- Output ---
+          filename: github-metrics.svg
+
+          # --- Profile ---
+          user: anandhu-eng
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Kolkata
+          repos_ignored: anandhu-eng/anandhu-eng
+
+          # --- Plugins (curated to stay professional) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: no
+          plugin_achievements_limit: 6
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
+
+          plugin_stargazers: yes
+          plugin_lines: yes
+
+          # --- Optional: WakaTime (enable after adding your API key) ---
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, projects
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+
+          # --- Commit behavior ---
+          commit_message: "chore(metrics): update github-metrics.svg"
+          dryrun: no
