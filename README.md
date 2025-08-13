@@ -21,11 +21,6 @@ In pursuit of making **MLPerf Inference** and **Automotive** benchmarking reprod
 📧 **anandhusooraj011@gmail.com**
 
 ---
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anandhu-eng&count_private=true&show_icons=true&theme=chartreuse-dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=anandhu-eng&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu-eng&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 #### 📊 Live Developer Metrics
 ![Metrics](https://raw.githubusercontent.com/anandhu-eng/anandhu-eng/main/github-metrics.svg)
